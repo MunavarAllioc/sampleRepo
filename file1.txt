@@ -1,0 +1,7 @@
+linux command
+nano file1.txt to edit.
+
+ctrl + x
+y
+enter --> to exist the nano editor mode.
+
